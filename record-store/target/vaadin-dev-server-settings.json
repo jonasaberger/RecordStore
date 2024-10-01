@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/aberg/OneDrive - HTL Saalfelden/4AHINF/04_DBI/gs-crud-with-vaadin/complete/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/aberg/OneDrive - HTL Saalfelden/4AHINF/04_DBI/gs-crud-with-vaadin/complete/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/aberg/OneDrive - HTL Saalfelden/4AHINF/04_DBI/gs-crud-with-vaadin/complete/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\aberg\\OneDrive - HTL Saalfelden\\4AHINF\\04_DBI\\gs-crud-with-vaadin\\complete\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\aberg\\OneDrive - HTL Saalfelden\\4AHINF\\04_DBI\\gs-crud-with-vaadin\\complete\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/aberg/OneDrive - HTL Saalfelden/4AHINF/04_DBI/gs-crud-with-vaadin/complete/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/aberg/OneDrive - HTL Saalfelden/4AHINF/04_DBI/gs-crud-with-vaadin/complete/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/aberg/OneDrive - HTL Saalfelden/4AHINF/04_DBI/gs-crud-with-vaadin/complete/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\aberg\\OneDrive - HTL Saalfelden\\4AHINF\\04_DBI\\gs-crud-with-vaadin\\complete\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
